@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for udemy course - React
+A small React application with some basic responsive properties
 To run the project:
 
 1. Clone this repo
