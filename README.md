@@ -1,5 +1,6 @@
 # robofriends
-A small React application with some basic responsive properties.
+A small React application built with some basic responsive properties.
+
 To run the project:
 
 1. Clone this repository
